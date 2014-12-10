@@ -17,5 +17,5 @@ results
 
 
 pkg
-src/github.com
-src/gopkg.in
+*github.com*
+*gopkg.in*
